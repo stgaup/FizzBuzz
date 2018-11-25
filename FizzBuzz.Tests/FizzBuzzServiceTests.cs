@@ -1,10 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using FizzBuzz.Lib;
+using System;
 using System.IO;
 using System.Linq;
-using System.Security.Cryptography.X509Certificates;
-using System.Text;
-using FizzBuzz.Lib;
 using Xunit;
 
 namespace FizzBuzz.Tests
